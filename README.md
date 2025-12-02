@@ -92,14 +92,15 @@ git clone https://github.com/PAOLAALAPA/proyecto-sarlaft-ml.git
 2️⃣ Instalar dependencias necesarias
 
 Ejecuta este comando en tu entorno de Python (VS Code, terminal, Anaconda, etc.):
-```bash
+
 pip install pandas numpy scikit-learn xgboost shap matplotlib seaborn
+
 
 3️⃣ Ejecutar el notebook
 
 Abre el archivo:
-```bash
 sarlaft_modelo.ipynb
+
 
 Puedes ejecutarlo en cualquiera de estas plataformas:
 
