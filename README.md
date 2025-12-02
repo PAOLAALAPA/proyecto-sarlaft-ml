@@ -82,23 +82,34 @@ Esto garantiza que las decisiones del modelo son transparentes y justificables, 
 Ambos modelos lograron un AUC de **1.00**, lo que indica una separación perfecta entre clases.
 
 ------
-🟫 Cómo Ejecutarlo
+## 🧪 Cómo Ejecutarlo
 
-Clonar el repositorio:
+### 1️⃣ Clonar el repositorio
+```bash
 git clone https://github.com/PAOLAALAPA/proyecto-sarlaft-ml.git
 
-Instalar dependencias necesarias
+
+2️⃣ Instalar dependencias necesarias
+
+Ejecuta este comando en tu entorno de Python (VS Code, terminal, Anaconda, etc.):
+```bash
 pip install pandas numpy scikit-learn xgboost shap matplotlib seaborn
 
-Ejecutar el notebook
+3️⃣ Ejecutar el notebook
+
+Abre el archivo:
+```bash
 sarlaft_modelo.ipynb
 
-Puedes abrirlo en:
-Jupyter Notebook
-JupyterLab
-Google Colab
-VS Code con Jupyter
+Puedes ejecutarlo en cualquiera de estas plataformas:
 
+Jupyter Notebook
+
+JupyterLab
+
+Google Colab
+
+Visual Studio Code (con la extensión Jupyter instalada)
 ------
 
 🧠 Autora
