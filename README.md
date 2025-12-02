@@ -81,15 +81,6 @@ Esto garantiza que las decisiones del modelo son transparentes y justificables, 
 
 Ambos modelos lograron un AUC de **1.00**, lo que indica una separación perfecta entre clases.
 
----
-
-# 📦 Cómo Ejecutarlo
-
-1. Clonar el repositorio:
-```bash
-git clone https://github.com/PAOLAALAPA/proyecto-sarlaft-ml.git
-
-
 ------
 🟫 Cómo Ejecutarlo
 
